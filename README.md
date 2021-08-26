@@ -5,11 +5,11 @@
 
 ### Sobre Mim 👨:
 - 🇧🇷 Sou de São Paulo/SP - BR
-- 🔭 Atualmente trabalho com desenvolvimento Backend
+- 🔭 Atualmente estudo desenvolvimento Backend
 - 🌱 Estou estudando Python e C
 
 <hr>
-<h1 align="left"> 
+
 <div>
   <a href="https://github.com/JoaolSoares">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaolSoares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
