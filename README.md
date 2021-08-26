@@ -1,12 +1,12 @@
 <h1 align="center"> 
-	Bem-Vindo ao meu GitHub 🚀
+	Welcome to my GitHub 🚀
 
-# Olá! Eu sou o João 👋
+# Hi! i am joão 👋
 
-### Sobre Mim 👨:
-- 🇧🇷 Sou de São Paulo/SP - BR
-- 🔭 Atualmente estudo desenvolvimento Backend
-- 🌱 Estou estudando Python e C
+### About me 👨:
+- 🇧🇷 I'm from São Paulo/SP - BR
+- 🔭 I'm currently studying Backend development
+- 🌱 I'm studying Python e C
 
 <hr>
 
