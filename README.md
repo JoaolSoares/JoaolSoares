@@ -6,7 +6,7 @@
 ### About me 👨:
 - 🇧🇷 I'm from São Paulo/SP - BR;
 - 🔭 I'm currently studying Backend development;
-- 👾 I'm currently a 42SP cadet;
+- 👾 I'm currently a 42_SP cadet;
 - 🌱 I'm studying Python and C;
 
 <hr>
@@ -14,7 +14,7 @@
  <div>
   <a href="https://github.com/JoaolSoares">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=JoaolSoares&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaolSoares&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaolSoares&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <hr>
