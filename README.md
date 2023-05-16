@@ -10,9 +10,9 @@
 
 <hr></hr>
 
-<div align="center">  
-	<img align="left" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaolSoares&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117"/>
-	<img align="right" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaolSoares&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" /><br>
+<div align="center">
+	<img align="left" width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JoaolSoares&show_icons=true&count_private=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117&hide_border=true"/>
+	<img align="right" width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaolSoares&layout=compact&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117&hide_border=true"/>
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=joaolsoares&bg_color=0d1117&color=ff91a4&line=ff91a4&point=ffffff&area=true&hide_border=true&height=250&hide_title=true)
