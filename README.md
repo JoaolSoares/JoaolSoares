@@ -26,7 +26,7 @@
 
 - ### Skills
 	- Languages<br>
-		[![My Skills](https://skillicons.dev/icons?i=py,js,c)](https://skillicons.dev)
+		[![My Skills](https://skillicons.dev/icons?i=py,js,c,java)](https://skillicons.dev)
 
 	- Frameworks<br>
       	[![My Skills](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
