@@ -6,7 +6,7 @@
 - 🇧🇷  I'm from São Paulo/SP - BR;
 - 👾 I'm currently a 42 São Paulo Cadet;
 - 🔭 I'm currently studying Backend development;
-- 🌱 I'm currently learning a python and AI;
+- 🌱 I'm currently learning about python and AI;
 
 <hr></hr>
 
