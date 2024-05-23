@@ -8,6 +8,7 @@
 - 🔭 I'm currently studying Backend development;
 - 🌱 I'm currently learning about python and AI;
 
+<br>
 <hr></hr>
 
 <div align="center">
