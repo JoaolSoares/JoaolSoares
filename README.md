@@ -1,7 +1,7 @@
 <h1 align="center"> 
 	Welcome to my GitHub 🚀
 
-# Hi! i am joão 👋
+# Hi! i am joão 👋<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="JoaolSoares">
 ### About me 👨:
 - 🇧🇷  I'm from São Paulo/SP - BR;
 - 👾 I'm currently a 42 São Paulo Cadet;
